@@ -1,0 +1,38 @@
+body {
+  font-family: 'Abel', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+.nav-link {
+  font-size: 15px;
+  margin-left: 15px;
+}
+.nav-link:hover{
+  color: #00E8E8;
+  border-bottom: 2px solid #00ffdd;
+}
+.carousel-inner img {
+  width: 100%;
+  height: 460px;
+}
+.sec-2 .btn {
+  width: 120px;
+}
+.row i {
+  color:#00ffdd;
+}
+.section-3  a{
+  font-size: 30px;
+  color: lightgreen;
+  text-decoration: none;
+}
+.section-3 img {
+  height: 400px;
+}
+.social i {
+  color: red;
+  font-size: 24px;
+}
+.section-3 p {
+  padding: 0 15px;
+
+}
